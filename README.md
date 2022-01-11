@@ -26,8 +26,11 @@ Smootify 모델에 대한 코드는 [여기]()에서 확인하실 수 있으며
 
 ## Reference
 * MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment, 2017 (Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang, Yi-Hsuan Yang) 
+* U-Net: Convolutional Networks for Biomedical Image Segmentation, 2015 (Olaf Ronneberger, Philipp Fischer, Thomas Brox)
+* MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer, 2018 (Gino Brunner, Andres Konrad, Yuyi Wang, Roger Wattenhofer)
 * [salu133445/musegan](https://github.com/salu133445/musegan)
 * [salu133445/lakh-pianoroll-dataset](https://github.com/salu133445/lakh-pianoroll-dataset)
+* [brunnergino/MIDI-VAE](https://github.com/brunnergino/MIDI-VAE)
 
 ## Contributors
 <table>
