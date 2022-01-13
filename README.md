@@ -44,10 +44,9 @@ pip install -r requirements.txt
 ```
 ### 2. Prepare Data
 ```
-python3 prepare_data.py ./data {0/-1} 
+python3 prepare_data.py ./{data-path} {0/-1} 
 ```
-`0`: turn off multiprocessing    
-`-1`: set pools automatically
+`-1`: multiprocessing
 ### 3. Train
 ```
 python3 main.py --train
