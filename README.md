@@ -57,8 +57,7 @@ python3 main.py --midi_path1 ./{song1} --midi_path2 ./{song2} --start1 {mixing p
 저희의 웹 데모는 [여기](https://smootify-tobigs1516.netlify.app/)에서 확인하실 수 있습니다. <br>
 
 이미지를 클릭 시 웹 페이지의 깃허브 레포로 이동합니다. <br>
-<a href="https://github.com/ToBigsSound-1516/WebDemo"><img src="https://user-images.githubusercontent.com/63901494/149372510-3ce55c7d-4754-4238-b4fb-007d8ff74788.png" width="400"> 
-<a href="https://github.com/ToBigsSound-1516/WebDemo"><img src="https://user-images.githubusercontent.com/63901494/149372586-a2857928-e881-4039-ae58-6f8e2ab7cbc0.png" width="400"><br>
+<a href="https://github.com/ToBigsSound-1516/WebDemo"><img src="https://user-images.githubusercontent.com/63901494/149372510-3ce55c7d-4754-4238-b4fb-007d8ff74788.png" width="400"> <img src="https://user-images.githubusercontent.com/63901494/149372586-a2857928-e881-4039-ae58-6f8e2ab7cbc0.png" width="400"></a><br>
 
 ## Reference
 * MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment, 2017 (Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang, Yi-Hsuan Yang) 
