@@ -3,6 +3,7 @@
 [![youtube](https://img.shields.io/badge/Youtube-Link-red)]()
 [![googledrive](https://img.shields.io/badge/report-Link-lightgrey)]()
 <br>
+![cover](https://user-images.githubusercontent.com/63901494/149273959-bb879fd6-fe99-4a87-be93-6d774b27a026.png)
 2022.01 ToBig's Sound Conf. 투빅토닉스
 
 음악을 환승하다, Infinite AI Music Streaming.
