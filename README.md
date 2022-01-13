@@ -36,23 +36,23 @@ Smootify Music Transition 모델의 소스코드는 [여기](https://github.com/
 학습 속도를 위해 GPU사용이 가능한 환경에서 실행하기를 권장합니다.<br>
 각 파라미터별 설명 및 보다 자세한 사용 방법은 [모델 레포](https://github.com/ToBigsSound-1516/transition)에서 확인하실 수 있습니다. 
 
-## 1. Installation
+### 1. Installation
 ```
 git clone https://github.com/ToBigsSound-1516/transition.git
 cd trainsition
 pip install -r requirements.txt
 ```
-## 2. Prepare Data
+### 2. Prepare Data
 ```
 python3 prepare_data.py ./data {0/-1} 
 ```
 `0`: turn off multiprocessing    
 `-1`: set pools automatically
-## 3. Train
+### 3. Train
 ```
 python3 main.py --train
 ```
-## 4. Mix Music!
+### 4. Mix Music!
 ```
 python3 main.py --midi_path1 ./{song1} --midi_path2 ./{song2} --start1 {mixing point} --start2 {mixing point}
 ```
