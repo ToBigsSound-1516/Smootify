@@ -18,14 +18,14 @@ Pop 음악들로 이루어진 Million Song Dataset에 기반한 [Lakh Pianoroll 
 
 ## Model
 ### Mashup
-Mashup Point 탐색 방법으로 **DTW(Dynamic Time Warping)**와 **유사도**를 활용하였습니다. 
-전통적인 DTW 방식으로 최소경로를, 음악의 마디 별 분포의 유사도를 계산하여 두 음악 트랙이 자연스럽게 이어질 수 있는 구간을 선정하였습니다.
+Mashup Point 탐색 방법으로 **DTW(Dynamic Time Warping)**와 **유사도**를 활용하였습니다. <br>
+전통적인 DTW 방식으로 최소경로를, 음악의 마디 별 분포의 유사도를 계산하여 두 음악 트랙이 자연스럽게 이어질 수 있는 구간을 선정하였습니다.<br>
 
 Mashup을 할 때의 Mix Point를 구하는 알고리즘의 소스코드는 [여기](https://github.com/ToBigsSound-1516/MidiMashupper)에서 확인하실 수 있습니다. 
 
 ### Music Transition
-**MuseGAN**의 convolution구조를 차용 및 **U-Net** 구조를 사용하여 두 음악간의 연결고리를 생성하였습니다. 
-기존의 음악에서 가운데 부분을 마스킹 후 이를 예측하는 방식으로 학습하였습니다.
+**MuseGAN**의 convolution구조를 차용 및 **U-Net** 구조를 사용하여 두 음악간의 연결고리를 생성하였습니다.<br> 
+기존의 음악에서 가운데 부분을 마스킹 후 이를 예측하는 방식으로 학습하였습니다.<br>
 
 Smootify Music Transition 모델의 소스코드는 [여기](https://github.com/ToBigsSound-1516/transition)에서 확인하실 수 있습니다.
 
