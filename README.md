@@ -61,6 +61,7 @@ python3 main.py --midi_path1 ./{song1} --midi_path2 ./{song2} --start1 {mixing p
 <a href="https://github.com/ToBigsSound-1516/WebDemo"><img src="https://user-images.githubusercontent.com/63901494/149433773-3e69dbc7-265a-4027-b579-43e25fdc7ed6.png" width="370"> <img src="https://user-images.githubusercontent.com/63901494/149433813-9d349dc8-1445-45f3-947c-87e59cb1bfb6.png" width="370"></a><br>
 
 ## Reference
+* AutoMashUpper: Automatic Creation of Multi-Song Music Mashups, 2014 (Matthew E. P. Davies, Philippe Hamel, Kazuyoshi Yoshii, Masataka Goto)
 * MuseGAN: Multi-track Sequential Generative Adversarial Networks for Symbolic Music Generation and Accompaniment, 2017 (Hao-Wen Dong, Wen-Yi Hsiao, Li-Chia Yang, Yi-Hsuan Yang) 
 * U-Net: Convolutional Networks for Biomedical Image Segmentation, 2015 (Olaf Ronneberger, Philipp Fischer, Thomas Brox)
 * MIDI-VAE: Modeling Dynamics and Instrumentation of Music with Applications to Style Transfer, 2018 (Gino Brunner, Andres Konrad, Yuyi Wang, Roger Wattenhofer)
