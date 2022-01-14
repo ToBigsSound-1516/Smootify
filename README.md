@@ -54,7 +54,7 @@ python3 main.py --train
 python3 main.py --midi_path1 ./{song1} --midi_path2 ./{song2} --start1 {mixing point} --start2 {mixing point}
 ```
 
-## WebDemo
+## Web Demo
 저희의 웹 데모는 [여기](https://smootify-tobigs1516.netlify.app/)에서 확인하실 수 있습니다. <br>
 
 이미지를 클릭 시 웹 페이지의 깃허브 레포로 이동합니다. <br>
