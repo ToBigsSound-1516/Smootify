@@ -32,7 +32,7 @@ Pop 음악들로 이루어진 Million Song Dataset에 기반한 [Lakh Pianoroll 
 ## Usage
 학습 속도를 위해 GPU사용이 가능한 환경에서 실행하기를 권장합니다.<br>
 
-각 파라미터별 설명 및 보다 자세한 사용 방법은 [모델 레포](https://github.com/ToBigsSound-1516/transition)에서 확인하실 수 있습니다. 
+각 파라미터별 설명 및 보다 자세한 사용 방법은 [Music Transition 모델 레포](https://github.com/ToBigsSound-1516/transition)에서 확인하실 수 있습니다. 
 
 ### 1. Installation
 ```
