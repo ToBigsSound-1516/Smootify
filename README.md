@@ -18,7 +18,7 @@ Pop 음악들로 이루어진 Million Song Dataset에 기반한 [Lakh Pianoroll 
 
 ## Model
 ### Mashup
-* Mashup Point 탐색 방법으로 **DTW(Dynamic Time Warping)** 와 **유사도**를 활용하였습니다.
+* Mashup Point 탐색 방법으로 **DTW(Dynamic Time Warping)** 와 **분포의 유사도**를 활용하였습니다.
 * Mashup을 할 때의 Mix Point를 구하는 알고리즘의 소스코드는 [여기](https://github.com/ToBigsSound-1516/MidiMashupper)에서 확인하실 수 있습니다. 
 
 ### Music Transition
