@@ -1,7 +1,7 @@
 # 🎼Smootify
 
 [![youtube](https://img.shields.io/badge/Youtube-Link-red)]()
-[![googledrive](https://img.shields.io/badge/report-Link-lightgrey)]()
+[![googledrive](https://img.shields.io/badge/report-Link-lightgrey)](https://drive.google.com/file/d/1VbAGiYxhro913O-q9mINd-VEs23m7WFM/view?usp=sharing)
 <br>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/63901494/149273959-bb879fd6-fe99-4a87-be93-6d774b27a026.png"></p>
