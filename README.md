@@ -77,6 +77,6 @@ python3 main.py --midi_path1 ./{song1} --midi_path2 ./{song2} --start1 {mixing p
     <td align="center"><a href="https://github.com/YMGYM"><img src="https://user-images.githubusercontent.com/67720742/125877285-c0b3eac0-27c7-405d-85fb-2c5cf80e5c12.jpg" width="130" height="130"><br /><sub><b>Minjun An</b></sub></td>
     <td align="center"><a href="https://github.com/hbjk0305"><img src="https://user-images.githubusercontent.com/68283760/125949229-81d9fad7-aba3-4754-af14-342ca9e22d7e.jpg"
  width="130" height="130"><br /><sub><b>JinKyoung Hwangbo</b></sub></td>
-    <td align="center"><a href="https://github.com/yoonene"><img src="https://user-images.githubusercontent.com/63901494/148693974-02500e9b-05e1-4c10-850b-d4d125c4900a.png" width="130" height="130"><br /><sub><b>Yoonene Kim</b></sub></td>
+    <td align="center"><a href="https://github.com/yoonene"><img src="https://user-images.githubusercontent.com/63901494/149610362-5bd414ee-6614-42f1-af63-8f4ab51b0af6.png" width="130" height="130"><br /><sub><b>Yoonene Kim</b></sub></td>
   </tr>
 </table>
