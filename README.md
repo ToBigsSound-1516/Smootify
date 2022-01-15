@@ -74,7 +74,7 @@ python3 main.py --midi_path1 ./{song1} --midi_path2 ./{song2} --start1 {mixing p
   <tr>
     <td align="center"><a href="https://github.com/5hyeonkwon"><img src="https://user-images.githubusercontent.com/63901494/148694025-1617015b-4058-4036-9c55-2a1767466da5.png" width="130" height="130"><br /><sub><b>Ohyeon Kwon</b></sub></t>
     <td align="center"><a href="https://github.com/Taehee-K"><img src="https://user-images.githubusercontent.com/68283760/125950085-509a9fe9-4dac-48dc-a8a2-ded2a4bd9f63.jpg" width="130" height="130"><br /><sub><b>Taehee Kim</b></sub></td>
-    <td align="center"><a href="https://github.com/YMGYM"><img src="https://user-images.githubusercontent.com/63901494/148694078-be5e530b-3afa-4b7f-b787-d5e129fc7d9c.png" width="130" height="130"><br /><sub><b>Minjun An</b></sub></td>
+    <td align="center"><a href="https://github.com/YMGYM"><img src="https://user-images.githubusercontent.com/67720742/125877285-c0b3eac0-27c7-405d-85fb-2c5cf80e5c12.jpg" width="130" height="130"><br /><sub><b>Minjun An</b></sub></td>
     <td align="center"><a href="https://github.com/hbjk0305"><img src="https://user-images.githubusercontent.com/68283760/125949229-81d9fad7-aba3-4754-af14-342ca9e22d7e.jpg"
  width="130" height="130"><br /><sub><b>JinKyoung Hwangbo</b></sub></td>
     <td align="center"><a href="https://github.com/yoonene"><img src="https://user-images.githubusercontent.com/63901494/148693974-02500e9b-05e1-4c10-850b-d4d125c4900a.png" width="130" height="130"><br /><sub><b>Yoonene Kim</b></sub></td>
