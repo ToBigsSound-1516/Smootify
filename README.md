@@ -1,6 +1,6 @@
 # 🎼Smootify
 
-[![youtube](https://img.shields.io/badge/Youtube-Link-red)]()
+[![youtube](https://img.shields.io/badge/Youtube-Link-red)](https://www.youtube.com/watch?v=pVSYUz6uS68)
 [![googledrive](https://img.shields.io/badge/report-Link-lightgrey)](https://drive.google.com/file/d/1VbAGiYxhro913O-q9mINd-VEs23m7WFM/view?usp=sharing)
 <br>
 
